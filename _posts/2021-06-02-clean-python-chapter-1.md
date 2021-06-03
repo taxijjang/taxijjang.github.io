@@ -37,4 +37,25 @@ class Player:
         pass
 ```
 
+### 인플레이스 문자열 결합 대신 조인 사용
+```
+first_name = "Json"
+last_name = "smart"
+
+# 문자열 연결 시 권장하지 않는 방법
+full_name = first_name + " " + last_name
+
+# 더 뛰어난 성능과 가독성 향상
+" ".join([first_name, last_name])
+```
+
+### 식별자 바인딩 시 람다 대신 함수 사용
+```
+# 추천하지 않는 방법
+square = lambda x: x * x
+
+# 추천하는 방법
+def square(val):
+  return val * val
+```
 ---
