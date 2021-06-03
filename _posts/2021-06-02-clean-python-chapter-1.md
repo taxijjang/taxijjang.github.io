@@ -58,4 +58,17 @@ square = lambda x: x * x
 def square(val):
   return val * val
 ```
+
+### 비교 시 type() 대신 isinstance() 메서드 사용
+```
+# 추천하지 않는 방법
+user_ages = {"Larry": 35, "Jon": 89, "Imli": 12}
+if type(user_ages) == dict:
+  pass
+
+#추천하는 방법
+user_ages = {"Larry": 35, "Jon": 89, "Imli": 12}
+if isinstance(user_ages, dict):
+  pass
+```
 ---
