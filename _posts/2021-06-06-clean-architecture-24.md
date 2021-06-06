@@ -9,8 +9,7 @@ tags: clean architecture
 - 가장 기본적인 본질은 남기고, 테스트하기 어려운 행위를 모두 험블 객체로 옮긴다.
 - 나머지 모듈에는 험블 객체에 속하지 않은, 테스트하기 쉬운 행위를 모두 옮긴다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94a14554-aba6-4ec0-b280-f57cc4b35740/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94a14554-aba6-4ec0-b280-f57cc4b35740/Untitled.png)
-
+![humble object](/images/humble.png)
 [https://martinfowler.com/bliki/HumbleObject.html](https://martinfowler.com/bliki/HumbleObject.html) - 마틴 파울러
 
 ## 프레젠터와 뷰
