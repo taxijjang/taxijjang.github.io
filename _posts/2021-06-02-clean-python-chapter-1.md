@@ -1,6 +1,6 @@
 ---
 title: 1장 - 파이써닉으로 생각하기
-tags: python
+tags: PYTHON
 ---
 
 ### 올바른 함수 이름

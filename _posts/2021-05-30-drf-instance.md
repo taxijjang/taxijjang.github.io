@@ -1,6 +1,6 @@
 ---
 title: drf serializer에서 instance 유무의 차이
-tags: django
+tags: DJANGO
 ---
 
 serializer.save를 호출시

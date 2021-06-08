@@ -1,6 +1,6 @@
 ---
 title: 프레젠터와 험블 객체
-tags: clean-architecture
+tags: CLEAN-ARCHITECTURE
 ---
 ## 험블 객체 패턴
 
