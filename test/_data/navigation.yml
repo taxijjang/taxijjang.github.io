@@ -48,3 +48,14 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+  - title:
+      en: &EN       English_word
+        en-GB: *EN
+        en-US: *EN
+        en-CA: *EN
+        en-AU: *EN
+        ko: &KO       영어단어
+        ko-KR: *KO
+        # @end locale config
+      url: /english_word.html
