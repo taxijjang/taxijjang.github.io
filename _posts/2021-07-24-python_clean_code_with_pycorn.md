@@ -2,6 +2,7 @@
 title: pycon - 우아하게 준비하는 테스트와 리팩토링 ( 클린코드 )
 tags: PYTHON CLEANCODE
 ---
+아래의 글은 PyCon을 참고 하였습니다.
 [https://www.youtube.com/watch?v=S5SY2pkmOy0&t=382s](https://www.youtube.com/watch?v=S5SY2pkmOy0&t=382s)
 
 # 깨진 유리창 이론
